@@ -27,10 +27,10 @@ navbar-links:
   Open Learning: "openlearning"
   Projects: "projects"
 #  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#    - GitHub Pages: "https://pages.github.com/"
-#  Author's home: "http://deanattali.com"
+   Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   Learn markdown: "http://www.markdowntutorial.com/" 
+   GitHub Pages: "https://pages.github.com/"
+   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -38,32 +38,32 @@ avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
-# footer-img: "/img/bgimage.png"
-# page-col: "#FF0000"
-# page-img: "/img/bgimage.png"
+navbar-col: "orange"
+navbar-img: "/img/bgimage.png"
+footer-col: "blue"
+footer-img: "/img/bgimage.png"
+page-col: "#FF0000"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
-  xing: yourname
-  stackoverflow: yourlink
+  name: Sanjay Gowda
+  email: "Sanjaygowda66"
+  github: Sanjaysanp
+  twitter: SanjayGowda66
+  linkedin: Sanjaysg66
+  xing: SanjayGowda
+  stackoverflow: Sanjaygowda
 
 
 # Select which links to show in the footer
@@ -87,14 +87,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Sanjaygowda6.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kratzertblog"
+disqus: "SanjayGowda"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+#google_analytics: "UA-96660715-1"
 
 # Google Tag Manager ID
 #gtm: ""
